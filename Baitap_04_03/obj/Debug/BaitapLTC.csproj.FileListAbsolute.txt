@@ -1,0 +1,7 @@
+D:\UTE\LTC\Baitap_04_03\Baitap_04_03\bin\Debug\Baitap_04_03.exe.config
+D:\UTE\LTC\Baitap_04_03\Baitap_04_03\bin\Debug\Baitap_04_03.exe
+D:\UTE\LTC\Baitap_04_03\Baitap_04_03\bin\Debug\Baitap_04_03.pdb
+D:\UTE\LTC\Baitap_04_03\Baitap_04_03\obj\Debug\BaitapLTC.csproj.AssemblyReference.cache
+D:\UTE\LTC\Baitap_04_03\Baitap_04_03\obj\Debug\BaitapLTC.csproj.CoreCompileInputs.cache
+D:\UTE\LTC\Baitap_04_03\Baitap_04_03\obj\Debug\Baitap_04_03.exe
+D:\UTE\LTC\Baitap_04_03\Baitap_04_03\obj\Debug\Baitap_04_03.pdb

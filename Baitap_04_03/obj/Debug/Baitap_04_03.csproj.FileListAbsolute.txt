@@ -1,0 +1,14 @@
+E:\LapTrinhC#\Baitap_04_03\Baitap_04_03\bin\Debug\Baitap_04_03.exe.config
+E:\LapTrinhC#\Baitap_04_03\Baitap_04_03\bin\Debug\Baitap_04_03.exe
+E:\LapTrinhC#\Baitap_04_03\Baitap_04_03\bin\Debug\Baitap_04_03.pdb
+E:\LapTrinhC#\Baitap_04_03\Baitap_04_03\obj\Debug\Baitap_04_03.csproj.AssemblyReference.cache
+E:\LapTrinhC#\Baitap_04_03\Baitap_04_03\obj\Debug\Baitap_04_03.csproj.CoreCompileInputs.cache
+E:\LapTrinhC#\Baitap_04_03\Baitap_04_03\obj\Debug\Baitap_04_03.exe
+E:\LapTrinhC#\Baitap_04_03\Baitap_04_03\obj\Debug\Baitap_04_03.pdb
+D:\UTE\LTC\Baitap_04_03\Baitap_04_03\bin\Debug\Baitap_04_03.exe.config
+D:\UTE\LTC\Baitap_04_03\Baitap_04_03\bin\Debug\Baitap_04_03.exe
+D:\UTE\LTC\Baitap_04_03\Baitap_04_03\bin\Debug\Baitap_04_03.pdb
+D:\UTE\LTC\Baitap_04_03\Baitap_04_03\obj\Debug\Baitap_04_03.csproj.AssemblyReference.cache
+D:\UTE\LTC\Baitap_04_03\Baitap_04_03\obj\Debug\Baitap_04_03.csproj.CoreCompileInputs.cache
+D:\UTE\LTC\Baitap_04_03\Baitap_04_03\obj\Debug\Baitap_04_03.exe
+D:\UTE\LTC\Baitap_04_03\Baitap_04_03\obj\Debug\Baitap_04_03.pdb
